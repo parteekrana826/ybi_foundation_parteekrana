@@ -13,7 +13,7 @@ Hyperparameter Tuning: Performs hyperparameter tuning using GridSearchCV to opti
 Model Evaluation: Evaluates the model using confusion matrix, classification report, and other metrics to assess its performance.
 
 Technologies Used
-Python: For data preprocessing, model training, and evaluation.
+Python: For data preprocessing, model training, and evaluation.    
 Pandas: For data manipulation and analysis.
 Scikit-learn: For implementing machine learning algorithms and evaluation metrics.
 Imbalanced-learn: For handling class imbalance through sampling techniques.
